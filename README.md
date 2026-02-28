@@ -37,7 +37,7 @@ A story-driven game project built with Python.
 A dark void-inspired developer website to see my journey.
 
 🔗 Live Site: https://devbolt19.github.io  
-🔗 Repository: https://github.com/devbolt19.github.io  
+🔗 Repository: https://github.com/DEvBOLT19/devbolt19.github.io
 
 ---
 
