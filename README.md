@@ -2,9 +2,7 @@
 
 Hey, I'm **BOLT** — a developer from India building projects from the void.
 
-I started with zero web knowledge and began creating real projects while learning.  
-I believe in building while learning, not waiting to be perfect.
-
+I started with journey with youtube and began creating real projects while learning.  
 ⚡ Currently learning and mastering:
 - 🐍 Python
 - 🌐 HTML
@@ -27,14 +25,6 @@ A dark void-inspired developer website to see my journey.
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEvBOLT19&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
