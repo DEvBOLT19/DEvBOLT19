@@ -1,11 +1,3 @@
-<h1 align="center">⚡ BOLT ⚡</h1>
-
-<p align="center">
-  🚀 Self-taught Developer | Machine learner | web developer
-</p>
-
----
-
 ## 🌌 About Me
 
 Hey, I'm **BOLT** — a developer from India building projects from the void.
@@ -23,30 +15,11 @@ I build games, experimental websites, and dark-themed developer projects.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎮 ECLIPSE
-A story-driven game project built with Python.  
-> Sci-fi atmosphere. Story mechanics. Experimental gameplay.
-
-🔗 Repository: https://github.com/DEvBOLT19/ECLIPSE  
-
----
-
 ### 🌑 MY WEBSITE
 A dark void-inspired developer website to see my journey.
 
 🔗 Live Site: https://devbolt19.github.io  
 🔗 Repository: https://github.com/DEvBOLT19/devbolt19.github.io
-
----
-
-## 🧠 Currently Working On
-
-- Expanding ECLIPSE into a full experience  
-- Building more browser-playable Python games  
-- learning web development  
-- Learning backend concepts  
 
 ---
 
@@ -63,15 +36,6 @@ A dark void-inspired developer website to see my journey.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DEvBOLT19&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 Vision
-
-I don’t just want to code.  
-I want to build worlds.
-
-> “The world will remember BOLT.”
 
 ---
 
