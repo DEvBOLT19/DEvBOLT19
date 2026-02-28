@@ -1,7 +1,7 @@
-<h1 align="center">⚡ THE WORLD WILL REMEMBER BOLT ⚡</h1>
+<h1 align="center">⚡ BOLT ⚡</h1>
 
 <p align="center">
-  🚀 Self-taught Developer | Game Builder | Future Tech Architect  
+  🚀 Self-taught Developer | Machine learner | web developer
 </p>
 
 ---
