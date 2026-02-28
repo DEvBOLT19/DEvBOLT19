@@ -33,11 +33,11 @@ A story-driven game project built with Python.
 
 ---
 
-### 🌑 PROJECT RuTHER
-A dark void-inspired developer website and game hub.
+### 🌑 MY WEBSITE
+A dark void-inspired developer website to see my journey.
 
 🔗 Live Site: https://devbolt19.github.io  
-🔗 Repository: https://github.com/DEvBOLT19/RUTHER.github.io  
+🔗 Repository: https://github.com/devbolt19.github.io  
 
 ---
 
@@ -45,7 +45,7 @@ A dark void-inspired developer website and game hub.
 
 - Expanding ECLIPSE into a full experience  
 - Building more browser-playable Python games  
-- Improving UI/UX skills  
+- learning web development  
 - Learning backend concepts  
 
 ---
