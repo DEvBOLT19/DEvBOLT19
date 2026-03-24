@@ -5,11 +5,9 @@ Hey, I'm **BOLT** — a developer from India building projects from the void.
 I started with journey with youtube and began creating real projects while learning.  
 ⚡ Currently learning and mastering:
 - 🐍 Python
-- 🌐 HTML
-- 🎨 CSS
-- ⚙️ JavaScript
-
-I build games, experimental websites, and dark-themed developer projects.
+- ⚙️ c++
+  
+i will make what humanity need
 
 ---
 
