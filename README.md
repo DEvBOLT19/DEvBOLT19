@@ -24,7 +24,7 @@ A dark void-inspired developer website to see my journey.
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,ml,cpp" />
 </p>
 
 ---
