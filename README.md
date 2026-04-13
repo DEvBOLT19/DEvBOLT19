@@ -1,32 +1,3 @@
 ## 🌌 About Me
 
-Hey, I'm **BOLT** — a developer from India building projects from the void.
-
-I started with journey with youtube and began creating real projects while learning.  
-⚡ Currently learning and mastering:
-- 🐍 Python
-- ⚙️ c++
-  
-i will make what humanity need
-
----
-
-### 🌑 MY WEBSITE
-A dark void-inspired developer website to see my journey.
-
-🔗 Live Site: https://devbolt19.github.io  
-🔗 Repository: https://github.com/DEvBOLT19/devbolt19.github.io
-
----
-
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
----
-
-<p align="center">
-  Built with ❤️ by BOLT
-</p>
+Hey, I'm **BOLT**
